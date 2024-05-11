@@ -2,17 +2,18 @@
 
 ![Demo App](https://i.ibb.co/0XpT9cZ/Screenshot-2024-05-11-at-7-14-11-PM.png)
 
+The project is live at https://chat-app-kx9z.onrender.com.
 
-Some Features:
+Features:
 
--  Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--  Authentication && Authorization with JWT
--  Real-time messaging with Socket.io
--  Online user status (Socket.io and React Context)
--  Global state management with Zustand
--  Error handling both on the server and on the client
--  At the end Deployment like a pro for FREE!
--  And more!
+-   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+-   🎃 Authentication && Authorization with JWT
+-   👾 Real-time messaging with Socket.io
+-   🚀 Online user status (Socket.io and React Context)
+-   👌 Global state management with Zustand
+-   🐞 Error handling both on the server and on the client
+-   ⭐ At the end Deployment like a pro for FREE!
+-   ⏳ And much more!
 
 ### Setup .env file
 
