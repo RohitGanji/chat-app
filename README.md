@@ -2,8 +2,7 @@
 
 ![Demo App](https://i.ibb.co/0XpT9cZ/Screenshot-2024-05-11-at-7-14-11-PM.png)
 
-```The project is live at https://chat-app-kx9z.onrender.com
-```
+#### Link - https://chat-app-kx9z.onrender.com
 
 ### Features:
 
