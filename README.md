@@ -1,6 +1,6 @@
 # Chat App - Rohit Ganji
 
-![Demo App](https://ibb.co/xsKWgDG)
+![Demo App](https://i.ibb.co/0XpT9cZ/Screenshot-2024-05-11-at-7-14-11-PM.png)
 
 
 Some Features:
